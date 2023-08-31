@@ -3,8 +3,8 @@ import websockets
 
 async def send_and_receive():
     try:
-        uri = "ws://139.59.33.235:5000"  # Replace with your cloud server's IP and port
-        async with websockets.connect(uri) as websocket:
+        url = "ws://139.59.33.235:5000"  # Replace with your cloud server's IP and port
+        async with websockets.connect(url) as websocket:
             message = "Hi, I'm the client,sudhira!"
             await websocket.send(message)
             print(f"Sent message to server: {message}")
