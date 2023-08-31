@@ -1,5 +1,9 @@
 # SE20UARI150_assign1_ClientServer
 
+Name-Sudhira 
+
+Roll number-SE20UARI150
+
 Starting the server by running the server code
 
 <img width="701" alt="Screenshot 2023-08-31 at 10 14 49 PM" src="https://github.com/sudhiracodes/SE20UARI150_assign1_ClientServer/assets/93386572/714af265-bf59-4aa8-9466-fab1d178b89b">
